@@ -20,6 +20,7 @@ Dependencies Reference
 - [@babel/preset-env](https://babeljs.io/docs/en/babel-preset-env)
 - [chai](https://www.chaijs.com/)
 - [core-js](https://github.com/zloirock/core-js)
+- [husky](https://typicode.github.io/husky/)
 
 License
 -------
