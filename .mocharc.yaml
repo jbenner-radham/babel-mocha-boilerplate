@@ -1,0 +1,6 @@
+---
+exit: true
+require:
+  - 'core-js'
+  - '@babel/register'
+timeout: 20000
