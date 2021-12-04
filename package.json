@@ -16,6 +16,7 @@
     "lint": "eslint {lib,test}",
     "lint:fix": "eslint --fix {lib,test}",
     "prepare": "husky install",
+    "sort:pkg": "sort-package-json",
     "test": "mocha",
     "test:watch": "mocha --watch"
   },
